@@ -36,32 +36,23 @@ Secure Payment Gateway
 using:
 
 ⚛ React.js – Fast & modern frontend
+
 🌐 Node.js – Backend runtime
+
 🚀 Express.js – REST API framework
+
 🍃 MongoDB Atlas – Cloud NoSQL database
+
 🔐 JWT – Authentication
+
 💳 Razorpay APIs – Payment Gateway
+
 📧 Nodemailer – Email service
+
 📦 Multer – File uploads
+
 🎨 Bootstrap / MUI – UI components
 
 
-🌟 Folder Structure
-/frontend
-    
-    /components
-        
-    /pages
-        
-    /services
-    
-    App.js
-    index.js
 
-/backend
-    /controllers
-    /models
-    /routes
-    /middleware
-    /uploads
-    server.js
+
