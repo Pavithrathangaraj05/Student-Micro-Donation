@@ -31,14 +31,30 @@ Transperent donation
 
 Secure Payment Gateway
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/e17b0604-2167-4fd4-8354-42f745714ccc" />
+🛠 Tech Stack
+
+using:
+
+⚛ React.js – Fast & modern frontend
+🌐 Node.js – Backend runtime
+🚀 Express.js – REST API framework
+🍃 MongoDB Atlas – Cloud NoSQL database
+🔐 JWT – Authentication
+💳 Razorpay APIs – Payment Gateway
+📧 Nodemailer – Email service
+📦 Multer – File uploads
+🎨 Bootstrap / MUI – UI components
 
 
 🌟 Folder Structure
 /frontend
+    
     /components
+        
     /pages
+        
     /services
+    
     App.js
     index.js
 
